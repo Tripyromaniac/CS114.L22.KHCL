@@ -12,8 +12,8 @@
 
 ## DANH SÁCH THÀNH VIÊN NHÓM
 
-| STT    | MSSV          | Họ và Tên              | Email                   |
+| STT    | MSSV          | Họ và Tên              | GitHub                  |
 | ------ |:-------------:|:----------------------:|:-------------------------:|
-| 1      | 19522390      | Phạm Minh Trí          |19522390@gm.uit.edu.vn|
-| 2      | 19522124      | Nguyễn Thanh Sang      |19522124@gm.uit.edu.vn|
+| 1      | 19522390      | Phạm Minh Trí          |https://github.com/Tripyromaniac|
+| 2      | 19521714      | Trần Đức Phi Lâm       |https://github.com/PhiLamFW|
 | 3      | 19522225      | Hồ Ngọc Thanh          |19522225@gm.uit.edu.vn|
