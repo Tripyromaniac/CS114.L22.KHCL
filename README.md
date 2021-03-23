@@ -16,4 +16,4 @@
 | ------ |:-------------:|:----------------------:|:-------------------------:|
 | 1      | 19522390      | Phạm Minh Trí          |https://github.com/Tripyromaniac|
 | 2      | 19521714      | Trần Đức Phi Lâm       |https://github.com/PhiLamFW|
-| 3      | 19522225      | Hồ Ngọc Thanh          |19522225@gm.uit.edu.vn|
+| 3      | 19522225      | Hồ Ngọc Thanh          |https://github.com/Hongocthanh|
