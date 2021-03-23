@@ -1,4 +1,4 @@
-# CS114.L22.KHCL
+# CS114.L22.KHCL, CS114.L21.KHCL
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn**: Máy học ( Machine Learning )
