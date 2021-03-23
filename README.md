@@ -3,7 +3,7 @@
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn**: Máy học ( Machine Learning )
 * **Mã môn**: CS114
-* **Lớp học**: CS114.L22.KHCL
+* **Lớp học**: CS114.L22.KHCL, CS114.L21.KHCL
 * **Năm học**: 2020-2021
 
 ## GIẢNG VIÊN 
