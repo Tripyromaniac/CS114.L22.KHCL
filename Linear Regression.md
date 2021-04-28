@@ -1,9 +1,7 @@
 # Bài tập tuần 6: 
-# Câu hỏi quá trình:
-Tìm ví dụ về bài toán Linea regression ***TRONG THỰC TẾ***
-Ghi rõ input, output và cách thu thập + xử lý 
+**Câu hỏi**: Tìm ví dụ về bài toán Linea regression ***TRONG THỰC TẾ***
 
-Dự đoán lượt xem của 1 video trên nền tảng Youtube:
+Vd 1: Dự đoán lượt xem của 1 video trên nền tảng Youtube:
 Input: số lượng subcribers cũa kênh (kiểu int)
 Output: số lượng view có thể đạt được của video sau một khoảng thời gian (kiểu int) 
 Nguồn dữ liệu: Ghi nhận từ thực tế lượt view đạt được của từng video của kênh trong một khoảng thời gian sau khi post lên
