@@ -1,5 +1,5 @@
 # Bài tập tuần 6: 
-*Câu hỏi quá trình:
+# Câu hỏi quá trình:
 Tìm ví dụ về bài toán Linea regression ***TRONG THỰC TẾ***
 Ghi rõ input, output và cách thu thập + xử lý 
 
