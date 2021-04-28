@@ -11,12 +11,12 @@
 - **Input:** các chỉ số về đất, nước, độ ẩm đất, các khoáng chất trong đất... kiểu float
 - **Output:** khối lượng sản phẩm trên 1 ha (kiểu float)
 - **Cách thu thập data:**
-Dữ liệu được thu thập thông qua đo lường thực tế các yếu tố đất, nước... (kiểu float)
-Dữ liệu về ảnh hưởng của phân bón lên cây được thu thập thông qua các báo cáo của bộ nông nghiệp và phát triển nông thôn (kiểu float)
+  + Dữ liệu được thu thập thông qua đo lường thực tế các yếu tố đất, nước... (kiểu float)
+  + Dữ liệu về ảnh hưởng của phân bón lên cây được thu thập thông qua các báo cáo của bộ nông nghiệp và phát triển nông thôn (kiểu float)
 - **Xử lý data:**
 Các giá trị về độ ẩm và nhiệt độ có miền giá trị chênh lệch so với chỉ số ác khoáng chất trong đất nên khi sử dụng để train sẽ xảy ra những trường hợp overfitting vậy nên trước khi vào model các số liệu sẽ được chuyển đổi để miền giá trị ko chênh lệch quá lớn 
 
-## Vd3: Dự đoán khoảng thời gian sẽ xảy ra kẹt xe ở 1 tuyến đường trong ngày:
+## Vd3: Dự đoán tỷ lệ trẻ sinh ra bị khuyết tật bẩm sinh:
 - **Input:** dữ liệu về lưu lượng xe trung bình, chiều rộng tuyến đường, 
 - **Output:** thời gian sẽ diễn ra kẹt xe và thời gian kết thúc (
 
